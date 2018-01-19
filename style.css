@@ -1,0 +1,17 @@
+
+body{
+	background:url('cov.jpg')no-repeat;
+	background size:width:cover,height:300;
+	align:center;
+	front-family:Arial;
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+ul-li
+{
+	float:left;
+	
+}
